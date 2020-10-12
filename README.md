@@ -1,2 +1,2 @@
-# Python_Exercise
-Repositório para exercícios em Python
+# Exercicios em Python
+Exercicios tirados do site: https://wiki.python.org.br/ListaDeExercicios
